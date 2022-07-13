@@ -6,9 +6,9 @@ DExperts model link:
 GeDi model link:  
 
 Usage:  
-You can copy the files stored in Google drive file path to project file path after downloading according to the link.
+You can copy the files stored in Google Drive File Path to Project File Path after downloading according to the link.
   
-Google drive file path  | Project file path
+Google Drive File Path  | Project File Path
  ---- | ------  
  单元格内容  | 单元格内容 
  单元格内容  | 单元格内容 
