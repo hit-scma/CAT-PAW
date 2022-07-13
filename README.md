@@ -6,4 +6,13 @@ DExperts model link:
 GeDi model link:  
 
 Usage:  
-Chart
+  
+Google drive file path  ｜ Project file path  
+  
+path  ｜ path  
+path  ｜ path  
+path  ｜ path  
+path  ｜ path  
+path  ｜ path  
+path  ｜ path  
+path  ｜ path  
